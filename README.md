@@ -17,7 +17,6 @@ Switched shared segments will break the CDP logic.
 
 
 Notes: This script uses Nornir2, not Nornir3. Install with:
-
 pip3 install nornir"<3"
 
 
