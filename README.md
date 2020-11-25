@@ -6,7 +6,8 @@
 24rd Nov 2020
 
 
-## Purpose: Automated Check to check OSPF links are share the same network/mask, area and timers.
+## Purpose: 
+Automated Check to check OSPF links are share the same network/mask, area and timers.
 
 
 ## Scope: 
