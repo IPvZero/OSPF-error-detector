@@ -16,6 +16,11 @@ This is the same mismatch shown from both perspectives of each device.
 This script used CDP was designed to be used on directly links.
 Switched shared segments will break the CDP logic.
 
+## Images:
+![alt text](https://github.com/IPvZero/OSPF-error-detector/blob/main/images/ospf-cdp4.png)
+
+![alt text](https://github.com/IPvZero/OSPF-error-detector/blob/main/images/ospf-cdp2.png)
+
 
 ## Notes: 
 This script uses Nornir2, not Nornir3. Install with:
