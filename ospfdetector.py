@@ -5,7 +5,7 @@ DATE: 24rd Nov 2020
 
 Purpose: Automated Check to check OSPF links are share the same network/mask, area and timers.
 
-Scope: This script used CDP was designed to be used on directly links.
+Scope: This script uses CDP and was designed to be operate between directly connected, OSPF-enabled devices.
 Switched shared segments will break the CDP logic.
 
 Notes: This script uses Nornir2, not Nornir3. Install with:
